@@ -1,15 +1,1 @@
-[
-  {
-    "title": "A Wonderful Book",
-    "imageUrl": "https://cdn.imgbin.com/7/2/10/imgbin-book-vintage-books-JxvxHkb15PHy4dHw2dBgj3dDA.jpg",
-    "description": "A wonderful book about something I don't undestand",
-    "price": "20"
-  },
-  {
-    "title": "Another Book",
-    "imageUrl": "https://img.favpng.com/21/7/10/brown-book-png-favpng-2symRSGDjPRy3Yjdjm37Hn6sf.jpg",
-    "description": "Some book about stuff...",
-    "price": "34.99"
-  }
-]
-      
+[{"id":"3746245","title":"A Wonderful Book","imageUrl":"https://cdn.imgbin.com/7/2/10/imgbin-book-vintage-books-JxvxHkb15PHy4dHw2dBgj3dDA.jpg","description":"A wonderful book about something I don't undestand","price":"20"},{"title":"Another Product","imageUrl":"https://cdn.imgbin.com/7/2/10/imgbin-book-vintage-books-JxvxHkb15PHy4dHw2dBgj3dDA.jpg","description":"Another book of some sorts","price":"29.99","id":"0.7457645661957755"}]
